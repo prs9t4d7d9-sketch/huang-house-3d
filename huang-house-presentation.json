@@ -1,0 +1,254 @@
+{
+  "project": {
+    "name": "XINPEI - HUANG HOUSE",
+    "zh": "勝開大地・黃宅",
+    "location": "Xinpei, Taiwan",
+    "date": "2025.03.02",
+    "drawingSet": "YI-11302",
+    "designer": "YI INTERIOR DESIGN"
+  },
+  "presentation": {
+    "title": "黃宅｜互動 3D 設計匯報",
+    "subtitle": "施工圖 × 平面配置 × 材質 × 立面",
+    "theme": "Editorial / Architecture",
+    "slides": "PPT-style HTML"
+  },
+  "source": {
+    "file": "2025.03.02 - 勝開大地 - 黃宅 - 完整施工圖面.pdf",
+    "basis": "AR-01 平面編號索引圖、GC-01/02、RC-01、FC-01、IE-01~07、FINISHES SCHEDULE"
+  },
+  "materials": [
+    {
+      "code": "PT-01",
+      "name": "乳膠漆",
+      "area": "全室天花／牆面",
+      "color": "白色",
+      "brand": "Dulux 1501 白色"
+    },
+    {
+      "code": "PT-02",
+      "name": "乳膠漆",
+      "area": "主臥／次臥隱藏門框",
+      "color": "石墨黑",
+      "brand": "Dulux 75GY 81/005"
+    },
+    {
+      "code": "LM-01",
+      "name": "系統板",
+      "area": "玄關、客廳電視櫃、主臥衣櫃／化妝桌",
+      "color": "質樸白橡木",
+      "brand": "駩鑫 #9003"
+    },
+    {
+      "code": "LM-02",
+      "name": "系統板",
+      "area": "餐廳、客廳、主臥",
+      "color": "自然義橡",
+      "brand": "駩鑫 #541"
+    },
+    {
+      "code": "WD-01",
+      "name": "木地板",
+      "area": "客廳、餐廳、走廊",
+      "color": "日光雪橡",
+      "brand": "Berry Alloc Cheateau"
+    },
+    {
+      "code": "WD-02",
+      "name": "木地板",
+      "area": "主臥、次臥一、次臥二",
+      "color": "柔光淺橡",
+      "brand": "Berry Alloc Ocean+"
+    },
+    {
+      "code": "WD-03",
+      "name": "科技板",
+      "area": "走廊牆、隱藏門走廊側",
+      "color": "米白麻布紋",
+      "brand": "KD批批板 P7154"
+    },
+    {
+      "code": "GL-01",
+      "name": "玻璃",
+      "area": "餐廳展示櫃／備餐檯吊櫃",
+      "color": "淺灰玻",
+      "brand": "5mm"
+    },
+    {
+      "code": "GL-02",
+      "name": "玻璃層板",
+      "area": "展示櫃／備餐檯",
+      "color": "灰色透明",
+      "brand": "8mm"
+    },
+    {
+      "code": "GL-03",
+      "name": "玻璃",
+      "area": "客廳設備櫃門片",
+      "color": "小冰柱",
+      "brand": "5mm"
+    },
+    {
+      "code": "MR-01",
+      "name": "鏡子",
+      "area": "玄關全身鏡",
+      "color": "明鏡",
+      "brand": "5mm"
+    },
+    {
+      "code": "MR-02",
+      "name": "鏡子",
+      "area": "玄關置物平台",
+      "color": "茶鏡",
+      "brand": "5mm"
+    },
+    {
+      "code": "VT-01",
+      "name": "塑膠地板",
+      "area": "玄關",
+      "color": "阿加頓灰岩",
+      "brand": "伊凡2.0 A5801"
+    },
+    {
+      "code": "ST-01",
+      "name": "人造石",
+      "area": "備餐檯檯面",
+      "color": "白色",
+      "brand": "HI-MACS G194"
+    }
+  ],
+  "rooms": [
+    {
+      "id": "entrance",
+      "name": "玄關 R101",
+      "x": 0,
+      "y": 6.4,
+      "w": 3.2,
+      "d": 1.8,
+      "h": 2.35,
+      "floor": "VT-01",
+      "type": "entry"
+    },
+    {
+      "id": "dining",
+      "name": "餐廳 R102",
+      "x": 3.2,
+      "y": 4.0,
+      "w": 4.0,
+      "d": 4.2,
+      "h": 2.35,
+      "floor": "WD-01",
+      "type": "public"
+    },
+    {
+      "id": "living",
+      "name": "客廳 R103",
+      "x": 7.2,
+      "y": 3.9,
+      "w": 5.1,
+      "d": 4.3,
+      "h": 2.35,
+      "floor": "WD-01",
+      "type": "public"
+    },
+    {
+      "id": "aisle",
+      "name": "走廊 R104",
+      "x": 4.3,
+      "y": 2.9,
+      "w": 3.0,
+      "d": 1.1,
+      "h": 2.35,
+      "floor": "WD-01",
+      "type": "circulation"
+    },
+    {
+      "id": "restroom",
+      "name": "客廁 R105",
+      "x": 0,
+      "y": 4.7,
+      "w": 2.6,
+      "d": 1.7,
+      "h": 2.35,
+      "floor": "TILE",
+      "type": "service"
+    },
+    {
+      "id": "kitchen",
+      "name": "廚房 R106",
+      "x": 0,
+      "y": 0,
+      "w": 2.6,
+      "d": 4.7,
+      "h": 2.35,
+      "floor": "TILE",
+      "type": "service"
+    },
+    {
+      "id": "bed1",
+      "name": "次臥一 R107",
+      "x": 2.6,
+      "y": 0,
+      "w": 3.8,
+      "d": 3.7,
+      "h": 2.35,
+      "floor": "WD-02",
+      "type": "private"
+    },
+    {
+      "id": "bed2",
+      "name": "次臥二 R108",
+      "x": 6.4,
+      "y": 0,
+      "w": 3.8,
+      "d": 3.7,
+      "h": 2.35,
+      "floor": "WD-02",
+      "type": "private"
+    },
+    {
+      "id": "master",
+      "name": "主臥 R109",
+      "x": 10.2,
+      "y": 0.9,
+      "w": 4.3,
+      "d": 4.1,
+      "h": 2.35,
+      "floor": "WD-02",
+      "type": "private"
+    },
+    {
+      "id": "masterbath",
+      "name": "主浴 R110",
+      "x": 10.0,
+      "y": 0,
+      "w": 2.6,
+      "d": 2.0,
+      "h": 2.35,
+      "floor": "TILE",
+      "type": "service"
+    },
+    {
+      "id": "workbalcony",
+      "name": "工作陽台 R111",
+      "x": 2.6,
+      "y": -1.4,
+      "w": 7.6,
+      "d": 1.4,
+      "h": 0.35,
+      "floor": "TILE",
+      "type": "balcony"
+    },
+    {
+      "id": "frontbalcony",
+      "name": "前陽台 R112",
+      "x": 14.5,
+      "y": 3.9,
+      "w": 1.0,
+      "d": 4.3,
+      "h": 0.35,
+      "floor": "TILE",
+      "type": "balcony"
+    }
+  ]
+}

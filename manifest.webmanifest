@@ -1,0 +1,11 @@
+{
+  "name": "黃宅｜互動 3D 設計匯報",
+  "short_name": "黃宅 3D",
+  "lang": "zh-Hant",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0b0d10",
+  "theme_color": "#0b0d10",
+  "description": "XINPEI - HUANG HOUSE interactive 3D design presentation."
+}
